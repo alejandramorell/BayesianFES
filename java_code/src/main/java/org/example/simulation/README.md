@@ -15,5 +15,5 @@ This package contains the Java code that implements the steps of the Bayesian al
 
 ## Notes
 
-To run a step for a new subject, there are needed the files of its initial probabilities and KsTable.
+To run a step for a new subject, there are needed the files of its initial probabilities and it respectively Ks table.
 
