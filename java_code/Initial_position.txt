@@ -1,0 +1,156 @@
+Hand data:
+Mean quaternion for the hand position:
+W: -0,62, X: 0,49, Y: -0,16, Z: -0,59
+Mean euler angle for the hand position:
+X: -41,84, Y: 50,58, Z: 66,70
+Samples:
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,64°, Pitch (y-axis): 50,55°, Yaw (z-axis): 66,95°
+Roll (x-axis): -41,69°, Pitch (y-axis): 50,53°, Yaw (z-axis): 66,89°
+Roll (x-axis): -41,69°, Pitch (y-axis): 50,51°, Yaw (z-axis): 66,89°
+Roll (x-axis): -41,72°, Pitch (y-axis): 50,48°, Yaw (z-axis): 66,85°
+Roll (x-axis): -41,72°, Pitch (y-axis): 50,48°, Yaw (z-axis): 66,85°
+Roll (x-axis): -41,72°, Pitch (y-axis): 50,48°, Yaw (z-axis): 66,85°
+Roll (x-axis): -41,76°, Pitch (y-axis): 50,44°, Yaw (z-axis): 66,79°
+Roll (x-axis): -41,75°, Pitch (y-axis): 50,44°, Yaw (z-axis): 66,78°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,79°, Pitch (y-axis): 50,40°, Yaw (z-axis): 66,74°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,77°, Pitch (y-axis): 50,42°, Yaw (z-axis): 66,76°
+Roll (x-axis): -41,94°, Pitch (y-axis): 50,67°, Yaw (z-axis): 66,57°
+Roll (x-axis): -42,08°, Pitch (y-axis): 50,68°, Yaw (z-axis): 66,41°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,05°, Pitch (y-axis): 50,71°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+Roll (x-axis): -42,04°, Pitch (y-axis): 50,72°, Yaw (z-axis): 66,43°
+
+********************************************************
+
+
+Arm data:
+Mean quaternion for the arm position:
+W: 0,80, X: 0,52, Y: 0,29, Z: 0,05
+Mean euler angle for the arm position:
+X: 71,86, Y: 24,92, Z: 24,88
+Samples:
+Roll (x-axis): 72,21°, Pitch (y-axis): 24,79°, Yaw (z-axis): 24,94°
+Roll (x-axis): 72,10°, Pitch (y-axis): 24,58°, Yaw (z-axis): 24,59°
+Roll (x-axis): 71,96°, Pitch (y-axis): 24,61°, Yaw (z-axis): 24,49°
+Roll (x-axis): 72,34°, Pitch (y-axis): 24,85°, Yaw (z-axis): 24,99°
+Roll (x-axis): 72,03°, Pitch (y-axis): 24,69°, Yaw (z-axis): 24,67°
+Roll (x-axis): 71,95°, Pitch (y-axis): 24,60°, Yaw (z-axis): 24,42°
+Roll (x-axis): 72,21°, Pitch (y-axis): 24,87°, Yaw (z-axis): 25,06°
+Roll (x-axis): 72,06°, Pitch (y-axis): 24,65°, Yaw (z-axis): 24,64°
+Roll (x-axis): 71,89°, Pitch (y-axis): 24,60°, Yaw (z-axis): 24,50°
+Roll (x-axis): 72,15°, Pitch (y-axis): 24,80°, Yaw (z-axis): 24,93°
+Roll (x-axis): 72,00°, Pitch (y-axis): 24,73°, Yaw (z-axis): 24,71°
+Roll (x-axis): 71,89°, Pitch (y-axis): 24,70°, Yaw (z-axis): 24,54°
+Roll (x-axis): 71,96°, Pitch (y-axis): 24,81°, Yaw (z-axis): 24,74°
+Roll (x-axis): 71,98°, Pitch (y-axis): 24,76°, Yaw (z-axis): 24,69°
+Roll (x-axis): 71,83°, Pitch (y-axis): 24,69°, Yaw (z-axis): 24,55°
+Roll (x-axis): 71,81°, Pitch (y-axis): 24,75°, Yaw (z-axis): 24,52°
+Roll (x-axis): 71,99°, Pitch (y-axis): 24,91°, Yaw (z-axis): 24,90°
+Roll (x-axis): 71,81°, Pitch (y-axis): 24,78°, Yaw (z-axis): 24,68°
+Roll (x-axis): 71,63°, Pitch (y-axis): 24,69°, Yaw (z-axis): 24,38°
+Roll (x-axis): 72,02°, Pitch (y-axis): 25,00°, Yaw (z-axis): 24,99°
+Roll (x-axis): 71,87°, Pitch (y-axis): 24,89°, Yaw (z-axis): 24,85°
+Roll (x-axis): 71,67°, Pitch (y-axis): 24,71°, Yaw (z-axis): 24,33°
+Roll (x-axis): 71,97°, Pitch (y-axis): 25,03°, Yaw (z-axis): 25,02°
+Roll (x-axis): 71,95°, Pitch (y-axis): 24,88°, Yaw (z-axis): 24,93°
+Roll (x-axis): 71,85°, Pitch (y-axis): 24,85°, Yaw (z-axis): 24,69°
+Roll (x-axis): 71,87°, Pitch (y-axis): 24,86°, Yaw (z-axis): 24,80°
+Roll (x-axis): 71,89°, Pitch (y-axis): 24,96°, Yaw (z-axis): 24,77°
+Roll (x-axis): 72,25°, Pitch (y-axis): 25,14°, Yaw (z-axis): 25,36°
+Roll (x-axis): 71,89°, Pitch (y-axis): 24,87°, Yaw (z-axis): 24,77°
+Roll (x-axis): 71,92°, Pitch (y-axis): 24,90°, Yaw (z-axis): 24,74°
+Roll (x-axis): 72,18°, Pitch (y-axis): 25,15°, Yaw (z-axis): 25,27°
+Roll (x-axis): 72,13°, Pitch (y-axis): 25,12°, Yaw (z-axis): 25,06°
+Roll (x-axis): 72,25°, Pitch (y-axis): 25,25°, Yaw (z-axis): 25,21°
+Roll (x-axis): 72,38°, Pitch (y-axis): 25,24°, Yaw (z-axis): 25,33°
+Roll (x-axis): 71,95°, Pitch (y-axis): 25,09°, Yaw (z-axis): 24,64°
+Roll (x-axis): 72,30°, Pitch (y-axis): 25,46°, Yaw (z-axis): 25,34°
+Roll (x-axis): 72,51°, Pitch (y-axis): 25,42°, Yaw (z-axis): 25,70°
+Roll (x-axis): 71,58°, Pitch (y-axis): 24,83°, Yaw (z-axis): 24,37°
+Roll (x-axis): 72,15°, Pitch (y-axis): 25,29°, Yaw (z-axis): 25,25°
+Roll (x-axis): 72,13°, Pitch (y-axis): 25,28°, Yaw (z-axis): 25,40°
+Roll (x-axis): 71,95°, Pitch (y-axis): 25,02°, Yaw (z-axis): 24,81°
+Roll (x-axis): 71,78°, Pitch (y-axis): 25,06°, Yaw (z-axis): 24,83°
+Roll (x-axis): 72,07°, Pitch (y-axis): 25,19°, Yaw (z-axis): 25,17°
+Roll (x-axis): 71,85°, Pitch (y-axis): 25,11°, Yaw (z-axis): 25,04°
+Roll (x-axis): 71,68°, Pitch (y-axis): 24,96°, Yaw (z-axis): 24,74°
+Roll (x-axis): 71,69°, Pitch (y-axis): 25,05°, Yaw (z-axis): 24,99°
+Roll (x-axis): 71,80°, Pitch (y-axis): 25,08°, Yaw (z-axis): 25,09°
+Roll (x-axis): 71,63°, Pitch (y-axis): 24,99°, Yaw (z-axis): 24,82°
+Roll (x-axis): 71,75°, Pitch (y-axis): 25,05°, Yaw (z-axis): 24,96°
+Roll (x-axis): 71,66°, Pitch (y-axis): 24,93°, Yaw (z-axis): 24,83°
+Roll (x-axis): 71,71°, Pitch (y-axis): 24,97°, Yaw (z-axis): 24,84°
+Roll (x-axis): 71,77°, Pitch (y-axis): 25,05°, Yaw (z-axis): 25,12°
+Roll (x-axis): 71,76°, Pitch (y-axis): 24,87°, Yaw (z-axis): 24,84°
+Roll (x-axis): 71,68°, Pitch (y-axis): 24,97°, Yaw (z-axis): 24,95°
+Roll (x-axis): 71,76°, Pitch (y-axis): 24,94°, Yaw (z-axis): 25,31°
+Roll (x-axis): 71,49°, Pitch (y-axis): 24,68°, Yaw (z-axis): 24,52°
+Roll (x-axis): 71,64°, Pitch (y-axis): 24,98°, Yaw (z-axis): 25,04°
+Roll (x-axis): 71,78°, Pitch (y-axis): 25,02°, Yaw (z-axis): 25,14°
+Roll (x-axis): 71,62°, Pitch (y-axis): 24,89°, Yaw (z-axis): 24,85°
+Roll (x-axis): 71,71°, Pitch (y-axis): 25,02°, Yaw (z-axis): 25,12°
+Roll (x-axis): 71,54°, Pitch (y-axis): 24,74°, Yaw (z-axis): 24,76°
+Roll (x-axis): 71,53°, Pitch (y-axis): 24,86°, Yaw (z-axis): 24,79°
+Roll (x-axis): 71,66°, Pitch (y-axis): 25,04°, Yaw (z-axis): 25,18°
+Roll (x-axis): 71,73°, Pitch (y-axis): 24,94°, Yaw (z-axis): 24,92°
+Roll (x-axis): 71,51°, Pitch (y-axis): 24,90°, Yaw (z-axis): 25,01°
+Roll (x-axis): 71,39°, Pitch (y-axis): 24,67°, Yaw (z-axis): 24,63°
+Roll (x-axis): 71,54°, Pitch (y-axis): 24,81°, Yaw (z-axis): 24,79°
+Roll (x-axis): 71,50°, Pitch (y-axis): 24,88°, Yaw (z-axis): 25,10°
+Roll (x-axis): 71,50°, Pitch (y-axis): 24,70°, Yaw (z-axis): 24,69°
+Roll (x-axis): 71,47°, Pitch (y-axis): 24,90°, Yaw (z-axis): 24,95°
+Roll (x-axis): 71,49°, Pitch (y-axis): 24,90°, Yaw (z-axis): 25,04°
