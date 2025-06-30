@@ -1,10 +1,10 @@
-#realTimeExecution
+# realTimeExecution
 
 This package contains the Java code that reads data from two IMU devices (in quaternion format) via serial ports, controls the TEREFES stimulator, and saves the results to text and CSV files.
 
 Before the execution, you must connect the Arduinos to the inertial sensors following the wiring configuration, and then connect the Arduinos to the PC. Connect also de stimulator to the PC.
 
-##Dependencies
+## Dependencies
 1. Java 11+  
 2. [jSerialComm](https://fazecast.github.io/jSerialComm/) 
    Add to your `pom.xml` (Maven) or `build.gradle` (Gradle):
