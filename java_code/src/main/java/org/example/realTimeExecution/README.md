@@ -6,7 +6,7 @@ Classes FESController and SerialReader include a local main to test their perfor
 Before the execution, you must connect the Arduinos to the inertial sensors following the wiring configuration, and then connect the Arduinos to the PC. Connect also de stimulator to the PC.
 
 ## Dependencies
-1. Java 11+  
+1. Java 19+ 
 2. [jSerialComm](https://fazecast.github.io/jSerialComm/) 
    Add to your `pom.xml` (Maven) or `build.gradle` (Gradle):
 
