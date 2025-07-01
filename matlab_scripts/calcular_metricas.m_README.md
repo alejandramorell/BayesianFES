@@ -9,11 +9,11 @@ This MATLAB script computes normalized “K‐metrics” for six hand movements 
 
 ## Usage
 The script expects the files
-  -`GetMaxMoves.mat`  
-  - `Trials.mat`
-  - `MaxFingerAngles.mat`
-  -  `Subject1.mat` … `Subject10.mat`
-  -  `Trials/Subject<s>Trial<t>_rep<r>.mat` files for each subject, trial, and repetition.
+- `GetMaxMoves.mat`
+- `Trials.mat`
+- `MaxFingerAngles.mat`
+- `Subject1.mat` … `Subject10.mat`
+  `Trials/Subject<s>Trial<t>_rep<r>.mat` files for each subject, trial, and repetition.
 ## Output
 K-metrics for flexion/extension, pronation/supination, adduction/abduction
 ## Configuration
