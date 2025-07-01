@@ -9,3 +9,4 @@ The script expects two files in the working directory, or you can edit the paths
 3. Console display: Prints all loaded vectors (roll_hand, pitch_hand, …, yaw_arm1) for verification.
 ## Configuration
 Ensure the CSV files are accessible and that your MATLAB current folder matches their location, or update the full file paths accordingly.
+This approach plot the effects produced by the activation of each channel independently; since TEREFES activates channel by channel, each channel produces different rotations, reflecting the unique effect of stimulation on each muscle group. 
