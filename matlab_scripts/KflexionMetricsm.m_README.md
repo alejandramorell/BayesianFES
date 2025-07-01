@@ -12,8 +12,8 @@ This MATLAB script loads precomputed K-flexion metrics for multiple subjects, fi
 
 ## Usage
 The script expects the file `Metrics2.mat` in your MATLAB path or current folder. `Metrics2.mat`
-Must contain a struct Kflexion with fields Subject1, Subject2, … Subject10.
-Each field is a 3D array of size [nTrials × 3 × 15].
+Must contain a struct `Kflexion` with fields Subject1, Subject2, … Subject10.
+Each field is a 3D array of size `[nTrials × 3 × 15]`.
 ## Output
 For each subject
 1. `InitialK_values_Subj.csv`: 15×1 CSV of initial K-values (mean at 0°) for pads 1–15.
