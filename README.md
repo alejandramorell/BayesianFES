@@ -2,7 +2,7 @@
 This repository contains the entire source code that has been used for the implementation of the Bayesian algorithm for prediction of sFESS patterns. It contains two main parts:
   1. Java code (`java_code/`):
      - `realTimeExecution/`: README inside explains how to run the real-time IMU & TEREFES controller.
-     - simulation/`:  README inside explains how to run the Bayesian simulation.
+     - `simulation/`:  README inside explains how to run the Bayesian simulation.
      - `auxiliar/` contains additional methods.
      - There are included all the `.CSV` and `.txt`files that have been generated during the execution fo this two modules
   3. MATLAB scripts (`matlab_scripts/`):
