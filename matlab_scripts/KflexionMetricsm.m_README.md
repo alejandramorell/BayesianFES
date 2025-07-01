@@ -7,7 +7,7 @@ This MATLAB script loads precomputed K-flexion metrics for multiple subjects, fi
    - Computes the mean K-values for each pad and trial, setting negative means to zero.  
    - Takes the mean at 0° as the “initial K” for each pad and saves it to `InitialK_values_<Subject>.csv`.  
    - Sorts the three mean values by angle and fits a quadratic curve \(K(θ)=aθ^2+bθ+c\) for each pad.
-   -  - Plots a bar chart of the three K-values and overlays the fitted curve and an interpolation point at 45°.
+   -  Plots a bar chart of the three K-values and overlays the fitted curve and an interpolation point at 45°.
 2. Interpolates each pad’s quadratic model over angles from –90° to 90° in 5° increments, clamps negatives to zero, and saves the full 15×nQuery table to `Kstable_<Subject>.csv`.  
 
 ## Usage
