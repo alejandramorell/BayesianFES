@@ -1,2 +1,2 @@
 # BayesianFES
-Java and MATLAB implementation 
+This repository contains the entire source code that has been used for the implementation of the Bayesian algorithm for prediction of sFESS patterns. The java code has two main functions: the acquisition of orientation data before and during stimulation, and the simulation of the Bayesian algorithm pergormance off-line. The matlab code include scripts for displaying the results of the real time execution of the IMUs and the TEREFES. And also scripts for plotting the final output of the algorithm, making easier to evaluate its performance.
