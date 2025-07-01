@@ -11,4 +11,4 @@ The script expects in the directory the files of the resutls of each subject. Ea
 
 
 ## Configuration
-Modify sprintf('results_Subject8_angle_%.1f.csv', angle) if you want to change the results for different subjects or if your CSV filer differ.
+Modify sprintf(`'results_Subject8_angle_%.1f.csv', angle`) if you want to change the results for different subjects or if your CSV filer differ.
