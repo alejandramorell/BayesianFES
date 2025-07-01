@@ -5,7 +5,7 @@ This repository contains the entire source code that has been used for the imple
      - simulation/` — README inside explains how to run the Bayesian simulation.
     
   3. MATLAB scripts (`matlab_scripts/`):
-  Each `.m` file has its own `_README.md` next to it explaining inputs, usage, and outputs.
+  Each `.m` file has its own `_README.md` next to it explaining inputs, usage, and outputs. There are also all the files needed for the execution of this scripts.
   
 
 ## Getting started
