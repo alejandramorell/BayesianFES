@@ -1,4 +1,4 @@
-# obsPlot2.m
+# resultsPlot.m
 This MATLAB script processes the results of the algorithm performance for a specific subject. Each subject has a series of files, one per rotation angle (-90º, 10º, 30º, 45º, 60º, 90º) and generates 3 heatmaps of initial, predicted, and corrected pad activation probabilities for each angle, tracking how the probabilities change across the different phases of the algorithm. It also highlights the final selected pads by the algorithm.
 
 
