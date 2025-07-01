@@ -11,13 +11,13 @@ This MATLAB script loads precomputed K-flexion metrics for multiple subjects, fi
 2. Interpolates each pad’s quadratic model over angles from –90° to 90° in 5° increments, clamps negatives to zero, and saves the full 15×nQuery table to `Kstable_<Subject>.csv`.  
 
 ## Usage
-The script expects the file `Metrics2.mat` in your MATLAB path or current folder. Metrics2.mat
+The script expects the file `Metrics2.mat` in your MATLAB path or current folder. `Metrics2.mat`
 Must contain a struct Kflexion with fields Subject1, Subject2, … Subject10.
 Each field is a 3D array of size [nTrials × 3 × 15].
 ## Output
 For each subject
-1. InitialK_values_Subj.csv: 15×1 CSV of initial K-values (mean at 0°) for pads 1–15.
-2. Kstable_Subj.csv: k-values at angles within the range -90º to 90º. OBSERVATION MODEL
+1. `InitialK_values_Subj.csv`: 15×1 CSV of initial K-values (mean at 0°) for pads 1–15.
+2. `Kstable_Subj.csv`: k-values at angles within the range -90º to 90º. OBSERVATION MODEL
 3. For each pad 1–15: a bar chart of K-values at –90°, 0°, 90° plus the fitted quadratic curve and interpolation point at 45°.
 ## Configuration
 Modify subjectNames array to process a different set.
