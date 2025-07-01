@@ -21,11 +21,11 @@ Before the execution, you must connect the Arduinos to the inertial sensors foll
 
 ## Configuration
 
-1. Configuration of the serial ports in Main.java.
-2. Set stimulation parameters in Main.java
-3. Change output paths to save results for plotting in MATLAB in Main.java
-4. Baud Rate for SerialReaderQuaternion is 115200-8-1-N, change if needed.
-5. Baud Rate for FESController is 9600-8-1-N, change if needed.
+1. Configuration of the serial ports in `Main.java.`
+2. Set stimulation parameters in  `Main.java.`
+3. Change output paths in `Main.java.` to save results for plotting in MATLAB 
+4. Baud Rate for `SerialReaderQuaternion` is 115200-8-1-N, change if needed.
+5. Baud Rate for `FESController` is 9600-8-1-N, change if needed.
 
 
 
